@@ -2,8 +2,8 @@ import React from "react";
 import ExclusiveOffers from "../components/ExclusiveOffers";
 import FeaturedDestination from "../components/FeaturedDestination";
 import Hero from "../components/Hero";
-import NewsLetter from "../components/Newsletter";
 import Testimonial from "../components/Testimonial";
+import AppNewsLetter from "../components/AppNewsLetter";
 
 const Home = () => {
   return (
@@ -12,7 +12,7 @@ const Home = () => {
       <FeaturedDestination />
       <ExclusiveOffers />
       <Testimonial />
-      <NewsLetter />
+      <AppNewsLetter />
     </>
   );
 };

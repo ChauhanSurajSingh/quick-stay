@@ -2,7 +2,7 @@ import React from "react";
 import Title from "./Title";
 import { assets } from "../assets/assets";
 
-export default function NewsLetter() {
+export default function AppNewsLetter() {
   return (
     <div className="mx-2 my-30 flex max-w-5xl flex-col items-center rounded-2xl bg-gray-900 px-4 py-12 text-white md:py-16 lg:mx-auto lg:w-full">
       <Title
