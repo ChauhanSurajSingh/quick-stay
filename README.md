@@ -1,12 +1,31 @@
-# React + Vite
+QuickStay – Hotel Booking Website
+A modern, responsive hotel booking web application built with React (Vite) and Tailwind CSS. Designed for users to search and book hotel rooms easily and for admins to manage listings, pricing, and availability.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔑 Key Features
+🛏️ Room Listings – Displays all rooms with pricing, amenities, and availability.
 
-Currently, two official plugins are available:
+📝 Booking Form – User-friendly input form for check-in/check-out, number of guests.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔄 Admin Toggle – Switch to control room availability (uses peer and Tailwind transitions).
 
-## Expanding the ESLint configuration
+📱 Responsive Design – Optimized for mobile, tablet, and desktop.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Hosted on GitHub Pages – Built using Vite for fast performance and clean deployment.
+
+⚙️ Tech Stack
+React (with Vite)
+
+Tailwind CSS
+
+React Icons
+
+Netlify (deployment)
+
+🚀 Getting Started
+Clone the repository and install dependencies.
+
+👤 Author
+Suraj
+Frontend Developer | Aspiring Full Stack Engineer
+📫 GitHub • LinkedIn
+
